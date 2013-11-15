@@ -1,0 +1,23 @@
+{
+  "name": "live-data",
+  "repo": "lush-ui/live-data",
+  "description": "Make data attributes live",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/delegate": "*",
+    "object-dom/object-document": "*",
+    "object-dom/object-element": "*",
+    "object-dom/object-element-style": "*",
+    "object-dom/object-element-attribute": "*",
+    "object-dom/object-element-selection": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "lib/live-data.js"
+  ]
+}
+
